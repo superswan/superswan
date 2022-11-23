@@ -8,49 +8,49 @@ https://gist.github.com/superswan/public
 
 ## 
 <p align="left">
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/c/c_48x48.png" alt="tailwind" width="40" height="40" /> </a> 
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/cpp/cpp_48x48.png" alt="tailwind" width="40" height="40" /> </a> 
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python_48x48.png" alt="tailwind" width="40" height="40" /> </a> 
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/go/go_48x48.png" alt="tailwind" width="40" height="40" /> </a> 
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/php/php_48x48.png" alt="tailwind" width="40" height="40" /> </a> 
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/html/html_48x48.png" alt="tailwind" width="40" height="40" /> </a> 
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/css/css_48x48.png" alt="tailwind" width="40" height="40" /> </a> 
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/javascript/javascript_48x48.png" alt="tailwind" width="40" height="40" /> </a> 
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="tailwind" width="40" height="40" /> </a> 
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="tailwind" width="40" height="40" /> </a> 
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="tailwind" width="40" height="40" /> </a> 
+        <a href="#"> 
+        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/c/c_48x48.png" alt="tailwind" width="40" height="40" /> <a href="#"> 
+        <a href="#"> 
+        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/cpp/cpp_48x48.png" alt="tailwind" width="40" height="40" /> <a href="#"> 
+        <a href="#"> 
+        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python_48x48.png" alt="tailwind" width="40" height="40" /> <a href="#"> 
+        <a href="#"> 
+        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/go/go_48x48.png" alt="tailwind" width="40" height="40" /> <a href="#"> 
+        <a href="#"> 
+        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/php/php_48x48.png" alt="tailwind" width="40" height="40" /> <a href="#"> 
+        <a href="#"> 
+        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/html/html_48x48.png" alt="tailwind" width="40" height="40" /> <a href="#"> 
+        <a href="#"> 
+        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/css/css_48x48.png" alt="tailwind" width="40" height="40" /> <a href="#"> 
+        <a href="#"> 
+        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/javascript/javascript_48x48.png" alt="tailwind" width="40" height="40" /> <a href="#"> 
+        <a href="#"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="tailwind" width="40" height="40" /> <a href="#"> 
+        <a href="#"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="tailwind" width="40" height="40" /> <a href="#"> 
+        <a href="#"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="tailwind" width="40" height="40" /> <a href="#"> 
         </p>
 
 <p align="left">
-    <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer">
+    <a href="#">
         <img src="https://avatars.githubusercontent.com/u/3716965?s=200&v=4" alt="bootstrap" width="40" height="40" />
-    </a> 
-    <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer">
+    <a href="#"> 
+    <a href="#">
         <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/LIN.png" alt="bootstrap" width="40" height="40" />
-    </a> 
-    <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer">
+    <a href="#"> 
+    <a href="#">
         <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ARL.png" alt="bootstrap" width="40" height="40" />
-    </a> 
-    <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer">
+    <a href="#"> 
+    <a href="#">
         <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/DEB.png" alt="bootstrap" width="40" height="40" />
-    </a> 
-    <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer">
+    <a href="#"> 
+    <a href="#">
         <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WIN.png" alt="bootstrap" width="40" height="40" />
-    </a> 
-    <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer">
+    <a href="#"> 
+    <a href="#">
         <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MAC.png" alt="bootstrap" width="40" height="40" />
-    </a> 
+    <a href="#"> 
 </p>
 
 ## Stats
