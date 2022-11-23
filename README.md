@@ -1,7 +1,7 @@
 # *:･ﾟ✧*:･ﾟ✧ i miss 2007 ✧･ﾟ: *✧･ﾟ:*
 <p align="center">
 <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kanna_Kamui_Finds_SICP.jpg" alt="sicp" width="640"/><br>
-**I like low level, networking, and security** <br>
+  <strong>I like low level, networking, and security</strong> <br>
   Some of my Gists are bretty gud (I think)
 https://gist.github.com/superswan/public
 </p>
