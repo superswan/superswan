@@ -1,4 +1,5 @@
 # *:･ﾟ✧*:･ﾟ✧ i miss 2007 ✧･ﾟ: *✧･ﾟ:*
+<img src="https://anlucas.neocities.org/anybrow.gif"/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kanna_Kamui_Finds_SICP.jpg" alt="sicp" width="640"/><br>
   <strong>I like low level, networking, and security</strong> <br>
@@ -59,4 +60,21 @@ https://gist.github.com/superswan/public
 
 
 
-
+<p align="left">
+    <a href="#">
+        <img src="https://anlucas.neocities.org/fspeech96.gif"/>
+    <a href="#">
+        <img src="https://anlucas.neocities.org/html.gif" />
+    <a href="#">
+        <img src="https://anlucas.neocities.org/getacomp.jpg" alt="bootstrap" />
+    <a href="#">
+        <img src="https://anlucas.neocities.org/noedit.jpg" alt="bootstrap" />
+    <a href="#">
+        <img src="https://anlucas.neocities.org/try_intermind_communicator.gif"  />
+    <a href="#">
+        <img src="https://anlucas.neocities.org/erisnow.gif" />
+    <a href="#">
+        <img src="https://anlucas.neocities.org/vi_now.gif" />
+    <a href="#">
+        <img src="https://anlucas.neocities.org/powered-by-debian.gif" />
+</p>
