@@ -1,4 +1,3 @@
-# *:･ﾟ✧*:･ﾟ✧ i miss 2007 ✧･ﾟ: *✧･ﾟ:*
 <img src="https://anlucas.neocities.org/anybrow.gif"/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kanna_Kamui_Finds_SICP.jpg" alt="sicp" width="640"/><br>
