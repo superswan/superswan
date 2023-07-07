@@ -6,6 +6,7 @@
 https://gist.github.com/superswan/public
 </p>
 
+If you want to hire me that would be really cool I am black and have queercoded behavior so I would fit right in and it looks really good on paper. I believe in NEETdom (NuAristocrat Class) so the old school "professionalism" schtick is not for me sorry. (Although I remain professional and courteous in a majority of day to day interactions) 
 ## 
 <p align="left">
         <a href="#"> 
