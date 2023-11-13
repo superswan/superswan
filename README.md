@@ -8,7 +8,6 @@ https://gist.github.com/superswan/public
 <p align="center">
 <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kanna_Kamui_Finds_SICP.jpg" alt="sicp" width="640"/><br>
 
-<img src="http://www.rdos.net/eng/poly10a.php?p1=86&p2=62&p3=55&p4=39&p5=29&p6=69&p7=74&p8=58&p9=66&p10=71" />
 </p>
 <p align="left">
         <a href="#"> 
