@@ -56,7 +56,7 @@ https://gist.github.com/superswan/public
         />
       </a>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy-kannan.vercel.app/?username=superswan&title=MultiLanguage,LongTimeUser,Repositories,Stars,Experience,Followers" 
+        <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=superswan&theme=light&title=MultiLanguage,LongTimeUser,Repositories,Stars,Experience,Followers" 
              alt="Trophies" 
              style="display:block; width:100%; max-width:100%; height:auto;"
         />
